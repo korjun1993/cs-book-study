@@ -2,6 +2,17 @@
 
 기술 서적을 읽고 토론하며 컴퓨터 과학을 학습하는 공간
 
+|네트워크| 데이터베이스                                |
+|---|---------------------------------------|
+|<img src="httpguide.jpeg" width="100">|<img src="real_mysql.jpeg" width="100">|
+
+
+
+# 참여 인원
+- [korjun1993](https://github.com/korjun1993)
+- [hoa0217](https://github.com/hoa0217)
+- [sedin2](https://github.com/sedin2)
+
 # 진행 방식
 1. 함께 읽을 책을 선정
 2. 일주일 간 읽을 범위를 결정
@@ -15,7 +26,7 @@
 
 # 이슈 생성 양식
 
-![img.png](issue_rule)
+![img.png](issue_rule.png)
 
 1. 제목: 대략적인 제목을 적어주세요
 2. 내용: 광범위한 내용보다는 좁은 주제로 한 개의 내용만 자세히 적어주세요
