@@ -15,6 +15,7 @@
 - [sedin2](https://github.com/sedin2)
 - [dev-redo](https://github.com/dev-redo)
 - [D7S5](https://github.com/D7S5)
+- [aorri2](https://github.com/aorri2)
 
 <br/>
 
