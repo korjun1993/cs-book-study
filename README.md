@@ -4,7 +4,7 @@
 
 | Java                                                  | HTTP                                                      | 네트워크                                                    | 데이터베이스                                                     | 컴퓨터구조&OS                                         |
 |-------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
-| <img src="image/java가.jpeg" width="100" height="120"> | <img src="image/httpguide.jpeg" width="100" height="120"> | <img src="image/network.jpeg" width="100" height="120"> | <img src="image/real_mysql.jpeg" width="100" height="120"> | <img src="image/os.jpeg" width="100" height="120"> |
+| <img src="image/java.jpeg" width="100" height="120"> | <img src="image/httpguide.jpeg" width="100" height="120"> | <img src="image/network.jpeg" width="100" height="120"> | <img src="image/real_mysql.jpeg" width="100" height="120"> | <img src="image/os.jpeg" width="100" height="120"> |
 
 <br/>
 
